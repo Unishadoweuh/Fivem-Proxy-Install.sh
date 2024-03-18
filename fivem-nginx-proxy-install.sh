@@ -96,14 +96,4 @@ systemctl restart nginx
 echo "Done! You can now connect to your server using connect https://$domain"
 echo "Check out the server.cfg on the repo to see how to configure your server."
 
-# Ad for my project
-echo -e "\n\n\e[35m"
-echo "If you want a realiable DDoS protection for your server"
-echo "To get the msot out of your server and to protect it from DDoS attacks"
-echo "Check out PurpleMaze, the most advanced algorithmic-based DDoS protection"
-echo -e "\e[31m"
-echo "https://purplemaze.net"
-echo "https://discord.gg/BMJJWjZafv"
-echo -e "\e[0m"
-
 exit 0
